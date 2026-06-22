@@ -1,0 +1,17 @@
+{
+  "name": "mini-database",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Harsh Chauhan",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "dev":"nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
